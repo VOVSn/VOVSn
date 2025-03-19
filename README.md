@@ -1,5 +1,5 @@
 Hello! Vlad Korolev here.
-Worked for more than 15 years in systems administration and now I want to move forward and create, software developement is the answer.
+Worked for more than 15 years in systems administration and now I want to move forward and create, where software developement is the answer.
 Though I studied other languages like turbo pascal and c/c++, for me python is the best way to express your thoughts and ideas.
 And json is the best way to commumicate with large language models :)
 
